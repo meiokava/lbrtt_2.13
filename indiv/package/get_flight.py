@@ -1,3 +1,6 @@
+#!/usr/bin/env python3
+# _*_ coding: utf-8 _*_
+
 def get_flight():
     """
     requesting information about the flight
